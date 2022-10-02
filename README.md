@@ -1,1 +1,1 @@
-Roblox developer mainly doing gui/building
+developer
